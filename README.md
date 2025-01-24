@@ -1,2 +1,3 @@
 # myfirstgitworld
 this is my first git repository
+Author-Satyajit Mohapatra 
